@@ -39,7 +39,8 @@ Students will be assessed on their ability to create the public service announce
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+The outcome for this plan is to instill the knowledge and skills for all students to be able to be safe and ethical as lifetime computer science learners.
+
 
 ### References
 https://codehs.com/uploads/f5b81b968b329a30ba5d48e33da36d28
