@@ -13,11 +13,11 @@ The purpose of this plan is to introduce students to Digital Citizenship. Curren
 Students will work through the Digital Citizenship Module covering several topics. For their final project, students choose one topic they have learned about and create a public service announcement that considers the positive and negative impacts of the topic.
 
 The public service announcement can be created in the media form the student chooses. 
-video 
-song 
-podcast
-poster 
-slideshow
+- video 
+- song 
+- podcast
+- poster 
+- slideshow
 
 ### Assessment
 
