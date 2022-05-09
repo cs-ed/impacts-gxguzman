@@ -27,8 +27,16 @@ The public service announcement can be created in the media form the student cho
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+Students will be assessed on their ability to create the public service announcement on a four point rubric.
+
+4 = Student Completed Public Service Announcement 
+3 = Student Completed Most of the Public Service Announcement 
+2 = Completed Some of the Public Service Announcement 
+1 = Student Start the Public Service Announcement 
 
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+
+### References
+https://codehs.com/uploads/f5b81b968b329a30ba5d48e33da36d28
