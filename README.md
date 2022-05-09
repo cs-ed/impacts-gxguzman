@@ -30,8 +30,11 @@ The public service announcement can be created in the media form the student cho
 Students will be assessed on their ability to create the public service announcement on a four point rubric.
 
 4 = Student Completed Public Service Announcement 
+
 3 = Student Completed Most of the Public Service Announcement 
+
 2 = Completed Some of the Public Service Announcement 
+
 1 = Student Start the Public Service Announcement 
 
 ### Outcomes
