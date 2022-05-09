@@ -11,6 +11,12 @@ The purpose of this plan is to introduce students to Digital Citizenship. Curren
 ### Learning Activities
 
 Students will work through the Digital Citizenship Module covering several topics. For their final project, students choose one topic they have learned about and create a public service announcement that considers the positive and negative impacts of the topic.
+- Digital Footprint and Reputation
+- Cyberbullying
+- Internet Safety
+- Privacy and Security
+- Information Literacy
+- Creative Credit and Copyright
 
 The public service announcement can be created in the media form the student chooses. 
 - video 
