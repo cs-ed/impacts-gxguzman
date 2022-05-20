@@ -12,7 +12,6 @@ The learning objective for this Digital Citizenship Module is to:
 - Reflect on the positive/negative social impacts of digital citizenship.
 - Equip students with the basic skills to be responsible digital citizens.
 
-
 ### Learning Activities
 
 Students will work through the Digital Citizenship Module covering several topics. For their final project, students choose one topic they have learned about and create a public service announcement that considers the positive and negative impacts of the topic.
