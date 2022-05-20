@@ -46,7 +46,6 @@ Students will be assessed on their ability to create the public service announce
 
 Our district has implemented a 1-to-1 Chromebook program. The impact of this 1-to-1 Chromebook program has been positive, as students are able to access the class content without any issues. Students were just handed these Chromebooks without being given the proper training. The one thing that has arisen is the diverse background computer knowledge from students. Many of the students have some sort of digital device in which they use to access social media and gaming platforms. These students had some experience in navigating through some of the positive and negative impacts of computing. In the same way, many students did not have access to a digital device, and did not have much experience with the social impacts of computing. This Digital Citizenship Module and Plan seeks to instill the knowledge and skills for all students to be able to be safe and ethical as lifetime computer science learners.
 
-
 ### References
 CodeHS Digital Citizenship
 
