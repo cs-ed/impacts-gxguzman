@@ -6,7 +6,12 @@ The name of the module is “Digital Citizenship.” This module will focus on i
 
 ### Learning Objectives
 
-The purpose of this plan is to introduce students to Digital Citizenship. Currently, I teach Career Explorer and have added the Digital Citizenship Module to our course. The elective is mostly web-based and our district has implemented a one-to-one Chromebook program. The impact of this one-to-one Chromebook program has been positive, as students are able to access the class content without any issues. The one thing that has arisen is the diverse background computer knowledge from students. 
+The purpose of this plan is to introduce students to Digital Citizenship. Currently, I teach Career Explorer and have added the Digital Citizenship Module to our course. The elective is mostly web-based and many students do not have the experience to sort through the positive and negative social impacts of computing. 
+
+The learning objective for this Digital Citizenship Module is to: 
+- Reflect on the positive/negative social impacts of digital citizenship.
+- Equip students with the basic skills to be responsible digital citizens.
+
 
 ### Learning Activities
 
@@ -43,4 +48,10 @@ The outcome for this plan is to instill the knowledge and skills for all student
 
 
 ### References
+CodeHS Digital Citizenship
+
 https://codehs.com/uploads/f5b81b968b329a30ba5d48e33da36d28
+
+Case Study: The Hard Transition to 1-to-1 Computing Continues
+
+https://www.edweek.org/technology/case-study-the-hard-transition-to-1-to-1-computing-continues/2022/05
