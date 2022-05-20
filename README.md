@@ -1,6 +1,6 @@
 # Impacts on Society
 
-The name of the module is “Digital Citizenship.” This module will focus on introducing students to navigate the internet safely and equip them with the skills to be. It will be offered to 7th and 8th grade students. 
+The name of the module is “Digital Citizenship.” This module will focus on introducing students to navigate the internet safely and responsibly. It will be offered to 7th and 8th grade students. 
 
 ## Plan
 
